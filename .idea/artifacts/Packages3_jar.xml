@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="Packages3:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Packages3_jar</output-path>
+    <root id="archive" name="Packages3.jar">
+      <element id="module-output" name="Packages3" />
+    </root>
+  </artifact>
+</component>
